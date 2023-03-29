@@ -1,2 +1,2 @@
-# DeepLearningMath2
-It is a deep learning project about facial expression recognition 
+# Bitcoin_DL
+A deep learning of bitcoin prediction
